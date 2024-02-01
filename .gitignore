@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+tutorial-env/
